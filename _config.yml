@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Tushar Agarwal"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/biopic_1.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Doctoral Student at Ohio State University"
   location         : "Columbus, OH, USA"
   email            : "ta2909@outlook.com"
