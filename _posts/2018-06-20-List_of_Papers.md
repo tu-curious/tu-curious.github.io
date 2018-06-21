@@ -7,7 +7,6 @@ author_profile: false
 header:
   image: "images/senselab1.png"
 excerpt: "List of Papers (Updated Weekly)"
-
 ---
 
 
