@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "TA2909: Personal Website"
+title                    : "IN-Site"
 title_separator          : "-"
-name                     : "In-Site"
+name                     : "IN-Site"
 description              : "Collection of Tutorials, Personal Updates and anything else I think useful."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
