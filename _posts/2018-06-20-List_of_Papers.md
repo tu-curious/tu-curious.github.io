@@ -1,7 +1,8 @@
 ---
-layout: archive
+layout: single
+classes: wide
 permalink: /SENSE-Lab_SU18_paper_discussion/
-title: "[SENSE-Lab](http://www2.ece.ohio-state.edu/~ertine/) Paper Discussion Group (Summer 2018)"
+title: "SENSE-Lab Paper Discussion Group (Summer 2018)"
 author_profile: false
 header:
   image: "images/senselab1.png"
@@ -31,3 +32,8 @@ excerpt: "List of Papers (Updated Weekly)"
 13. Deep Concolutional Framelets: A General Deep Learning Framework For Inverse Problems - [link](https://arxiv.org/pdf/1707.00372.pdf)
 14. Recurrent Latent variable model for sequential data  - [link](https://arxiv.org/pdf/1506.02216.pdf)
 15. Sequential Neural Models with Stochastic Layers  - [link](http://papers.nips.cc/paper/6039-sequential-neural-models-with-stochastic-layers)
+
+
+
+
+Visit my Lab's web-site [here](http://www2.ece.ohio-state.edu/~ertine/)
