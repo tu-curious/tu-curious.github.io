@@ -1,13 +1,16 @@
 ---
 layout: archive
 permalink: /SENSE-Lab_SU18_paper_discussion/
-title: "SENSE-Lab Paper Discussion Group (Summer 2018)"
+title: "[SENSE-Lab](http://www2.ece.ohio-state.edu/~ertine/) Paper Discussion Group (Summer 2018)"
 author_profile: false
 header:
-  image: "images/screenshot.png"
+  image: "images/senselab1.png"
+excerpt: "List of Papers (Updated Weekly)"
+
 ---
 
-## Presented Papers (Updated Every Week)
+
+## Presented Papers (Updated Weekly)
 1. Maximal Sparsity with Deep Networks. Goto Meeting 1 page [here](/Meeting_1_SU18/)
 
 

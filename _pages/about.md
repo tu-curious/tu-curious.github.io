@@ -2,7 +2,8 @@
 title: "About"
 permalink: /about/
 header:
-    image: "images/screenshot.png"
+    image: "images/Panoramic_view_of_Ohio_Stadium.jpg"
 ---
 
-I am a Doctoral Student at Ohio State University.
+
+** This Page is still Under Construction **
