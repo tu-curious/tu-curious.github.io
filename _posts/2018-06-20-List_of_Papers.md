@@ -12,7 +12,7 @@ excerpt: "List of Papers (Updated Weekly)"
 
 ## Presented Papers (Updated Weekly)
 1. Xin, B., Wang, Y., Gao, W., Wipf, D. and Wang, B., 2016. Maximal sparsity with deep networks?. In Advances in Neural Information Processing Systems (pp. 4340-4348). Goto Meeting 1 page [here](/Meeting_1_SU18/)
-
+2. Patel, A.B., Nguyen, M.T. and Baraniuk, R., 2016. A probabilistic framework for deep learning. In Advances in neural information processing systems (pp. 2558-2566). [link](https://arxiv.org/pdf/1612.01936.pdf)
 
 ## Tentative Paper List for SU18
 
