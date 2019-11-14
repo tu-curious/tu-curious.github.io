@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-permalink: /SENSE_Lab_discuss/
+permalink: /work_OSU/SENSE_Lab_discuss/
 title: "SENSE-Lab Paper Discussion"
 author_profile: false
 header:

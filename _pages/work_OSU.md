@@ -16,3 +16,5 @@ Ohio State University.
 4. [Self-Driving car simulation using Q-Learning (Spring 2018)](https://tushar-agarwal2909.github.io/work_OSU/RL_proj_SP18)
 5. [A Survey of Gradient-Descent Optimizer Variants (Autumn 2017)](https://tushar-agarwal2909.github.io/work_OSU/opti_proj_AU17)
 6. [3-D microscopic particle tracking system (Spring 2017)](https://tushar-agarwal2909.github.io/work_OSU/MS_proj_AU17)
+
+A list of important literature discussed within our research group can be found [here](https://tushar-agarwal2909.github.io/work_OSU/SENSE_Lab_discuss)
