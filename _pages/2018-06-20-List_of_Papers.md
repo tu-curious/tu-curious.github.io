@@ -28,13 +28,11 @@ excerpt: "List of Papers"
 7. Wang, P. and Patel, V.M., 2018, April. Generating high quality visible images from SAR images using CNNs. In 2018 IEEE Radar Conference (RadarConf18) (pp. 0570-0575). IEEE.
 8. SAR Target Recognition via Supervised Discriminative Dictionary Learning and Sparse Representation of the SAR-HOG Feature
 
-
 ## Machine Learning on PPG data
 1. Zhang, Z., Pi, Z. and Liu, B., 2014. TROIKA: A general framework for heart rate monitoring using wrist-type photoplethysmographic signals during intensive physical exercise. IEEE Transactions on biomedical engineering, 62(2), pp.522-531.
 2. Zhang, Y., Song, S., Vullings, R., Biswas, D., Simões-Capela, N., Van Helleputte, N., Van Hoof, C. and Groenendaal, W., 2019. Motion artifact reduction for wrist-worn photoplethysmograph sensors based on different wavelengths. Sensors, 19(3), p.673.
 3. Zhang, Z., 2015. Photoplethysmography-based heart rate monitoring in physical activities via joint sparse spectrum reconstruction. IEEE transactions on biomedical engineering, 62(8), pp.1902-1910.
 4. Zhu, L., Kan, C., Du, Y. and Du, D., 2018. Heart rate monitoring during physical exercise from photoplethysmography using neural network. IEEE sensors letters, 3(1), pp.1-4.
-
 
 ## Solving inverse problems using Neural nets
 1. Xin, B., Wang, Y., Gao, W., Wipf, D. and Wang, B., 2016. Maximal sparsity with deep networks?. In Advances in Neural Information Processing Systems (pp. 4340-4348). Goto Meeting 1 page [here](/Meeting_1_SU18/).
@@ -51,22 +49,10 @@ excerpt: "List of Papers"
 3. Chung, J., Kastner, K., Dinh, L., Goel, K., Courville, A.C. and Bengio, Y., 2015. A recurrent latent variable model for sequential data. In Advances in neural information processing systems (pp. 2980-2988).  - [link](https://arxiv.org/pdf/1506.02216.pdf)
 4. Fraccaro, M., Sønderby, S.K., Paquet, U. and Winther, O., 2016. Sequential neural models with stochastic layers. In Advances in neural information processing systems (pp. 2199-2207).  - [link](http://papers.nips.cc/paper/6039-sequential-neural-models-with-stochastic-layers)
 
-
 ## Solving Imaging problems with neural nets
 1. Oktay, O., Ferrante, E., Kamnitsas, K., Heinrich, M., Bai, W., Caballero, J., Cook, S.A., de Marvao, A., Dawes, T., O‘Regan, D.P. and Kainz, B., 2018. Anatomically constrained neural networks (ACNNs): application to cardiac image enhancement and segmentation. IEEE transactions on medical imaging, 37(2), pp.384-395. [link](https://arxiv.org/pdf/1705.08302.pdf)
 2. Jin, K.H., McCann, M.T., Froustey, E. and Unser, M., 2017. Deep convolutional neural network for inverse problems in imaging. IEEE Transactions on Image Processing, 26(9), pp.4509-4522.  - [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7949028&tag=1)
 3. Schlemper, J., Caballero, J., Hajnal, J.V., Price, A.N. and Rueckert, D., 2018. A deep cascade of convolutional neural networks for dynamic MR image reconstruction. IEEE transactions on Medical Imaging, 37(2), pp.491-503. [link](https://arxiv.org/pdf/1704.02422.pdf)
-
-
-## Other Relevant Papers
-1. Samuel, N., Diskin, T. and Wiesel, A., 2017. Deep MIMO detection. arXiv preprint arXiv:1706.01151. [link](https://arxiv.org/pdf/1706.01151.pdf)
-2. Kalchbrenner, N., Espeholt, L., Simonyan, K., Oord, A.V.D., Graves, A. and Kavukcuoglu, K., 2016. Neural machine translation in linear time. arXiv preprint arXiv:1610.10099.  - [link](https://arxiv.org/pdf/1610.10099.pdf)
-
-
-
-## Understanding optimization in non-convex settings
-1. Azizan, N. and Hassibi, B., 2018. Stochastic Gradient/Mirror Descent: Minimax Optimality and Implicit Regularization. arXiv preprint arXiv:1806.00952.  - [link](https://arxiv.org/abs/1806.00952)
-
 
 ## Classification with compressive samples
 1. Wu, Y., Rosca, M. and Lillicrap, T., 2019. Deep Compressed Sensing. arXiv preprint arXiv:1905.06723. -[link](https://arxiv.org/pdf/1905.06723.pdf)
@@ -75,5 +61,12 @@ excerpt: "List of Papers"
 4. Zhang, Z., Wu, Y., Gan, C. and Zhu, Q., 2019. The optimally designed autoencoder network for compressed sensing. EURASIP Journal on Image and Video Processing, 2019(1), p.56. -[link](https://jivp-eurasipjournals.springeropen.com/articles/10.1186/s13640-019-0460-5)
 5. Finn, C., Abbeel, P. and Levine, S., 2017, August. Model-agnostic meta-learning for fast adaptation of deep networks. In Proceedings of the 34th International Conference on Machine Learning-Volume 70 (pp. 1126-1135). JMLR. org. -[link](https://arxiv.org/pdf/1703.03400.pdf)
 
+
+## Understanding optimization in non-convex settings
+1. Azizan, N. and Hassibi, B., 2018. Stochastic Gradient/Mirror Descent: Minimax Optimality and Implicit Regularization. arXiv preprint arXiv:1806.00952.  - [link](https://arxiv.org/abs/1806.00952)
+
+## Other Relevant Papers
+1. Samuel, N., Diskin, T. and Wiesel, A., 2017. Deep MIMO detection. arXiv preprint arXiv:1706.01151. [link](https://arxiv.org/pdf/1706.01151.pdf)
+2. Kalchbrenner, N., Espeholt, L., Simonyan, K., Oord, A.V.D., Graves, A. and Kavukcuoglu, K., 2016. Neural machine translation in linear time. arXiv preprint arXiv:1610.10099.  - [link](https://arxiv.org/pdf/1610.10099.pdf)
 
 Visit Lab's web-site [here](http://www2.ece.ohio-state.edu/~ertine/)
