@@ -67,6 +67,9 @@ excerpt: "List of Papers"
 ## Deep Learning on Complex Valued data
 1. Scardapane, S., Van Vaerenbergh, S., Hussain, A. and Uncini, A., 2018. Complex-valued neural networks with nonparametric activation functions. IEEE Transactions on Emerging Topics in Computational Intelligence. [link](https://arxiv.org/pdf/1802.08026)
 2. Trabelsi, C., Bilaniuk, O., Zhang, Y., Serdyuk, D., Subramanian, S., Santos, J.F., Mehri, S., Rostamzadeh, N., Bengio, Y. and Pal, C.J., 2017. Deep complex networks. arXiv preprint arXiv:1705.09792. [link](https://arxiv.org/abs/1705.09792)
+3. Scardapane, S., Van Vaerenbergh, S., Comminiello, D. and Uncini, A., 2019, May. Widely Linear Kernels for Complex-valued Kernel Activation Functions. In ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 8528-8532). IEEE. 
+[link](https://arxiv.org/abs/1705.09792)
+
 
 ## Other Relevant Papers
 1. Samuel, N., Diskin, T. and Wiesel, A., 2017. Deep MIMO detection. arXiv preprint arXiv:1706.01151. [link](https://arxiv.org/pdf/1706.01151.pdf)
