@@ -5,7 +5,7 @@ permalink: /work_OSU/SENSE_Lab_discuss/
 title: "SENSE-Lab Paper Discussion"
 author_profile: false
 header:
-  image: "images/senselab1.png"
+  image: "images/pic_4_paper_list.png"
 excerpt: "List of Papers"
 ---
 ## List of Important papers
@@ -44,6 +44,7 @@ excerpt: "List of Papers"
 8. Oktay, O., Ferrante, E., Kamnitsas, K., Heinrich, M., Bai, W., Caballero, J., Cook, S.A., de Marvao, A., Dawes, T., O‘Regan, D.P. and Kainz, B., 2018. Anatomically constrained neural networks (ACNNs): application to cardiac image enhancement and segmentation. IEEE transactions on medical imaging, 37(2), pp.384-395. [link](https://arxiv.org/pdf/1705.08302.pdf)
 9. Jin, K.H., McCann, M.T., Froustey, E. and Unser, M., 2017. Deep convolutional neural network for inverse problems in imaging. IEEE Transactions on Image Processing, 26(9), pp.4509-4522.  - [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7949028&tag=1)
 10. Schlemper, J., Caballero, J., Hajnal, J.V., Price, A.N. and Rueckert, D., 2018. A deep cascade of convolutional neural networks for dynamic MR image reconstruction. IEEE transactions on Medical Imaging, 37(2), pp.491-503. [link](https://arxiv.org/pdf/1704.02422.pdf)
+11. Ravishankar, S., Ye, J.C. and Fessler, J.A., 2019. Image Reconstruction: From Sparsity to Data-adaptive Methods and Machine Learning. arXiv preprint arXiv:1904.02816. [link](https://arxiv.org/pdf/1904.02816.pdf)
 
 ## Variational Inference in Deep Learning
 1. Blundell, C., Cornebise, J., Kavukcuoglu, K. and Wierstra, D., 2015. Weight uncertainty in neural networks. arXiv preprint arXiv:1505.05424. Goto Meeting 7 page [here](/Meeting_7_SU18/).
