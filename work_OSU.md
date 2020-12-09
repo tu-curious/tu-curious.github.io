@@ -10,7 +10,7 @@ header:
 The following are some selected projects I have done as a Graduate Student at 
 Ohio State University.
 
-1. [Sparse Signal Models for Data Augmentation in Deep Learning ATR]({{site.url}}/publications/Sparse_Signal_Models_RadarConf2020.pdf)<br>
+1. [Sparse Signal Models for Data Augmentation in Deep Learning ATR]({{site.url}}/work_OSU/DA_Paper_RadarConf20)<br>
 Agarwal T., Sugavanam N. and Ertin E., 2020, September.<br>
 In Proceedings of the 2020 IEEE Radar Conference (RadarConf) (pp. 978-984)
 2. [Theoretical Analysis of SGD (Spring 2019)]({{site.url}}/work_OSU/SGD_proj_SP19)
